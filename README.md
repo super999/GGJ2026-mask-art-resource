@@ -12,9 +12,9 @@
 
 作者：super999(b站ID：独游AI匠)
 
-B站频道链接：https://space.bilibili.com/24963710
-
-游戏介绍视频：https://www.bilibili.com/video/BV1iU6bBCEh4
+- B站频道链接：https://space.bilibili.com/24963710
+- 游戏介绍视频：https://www.bilibili.com/video/BV1iU6bBCEh4
+- gmhub项目链接：https://gmhub.com/game/8912
 
 游戏截图：
 ![游戏截图1](./游戏截图/启动页面.png)
