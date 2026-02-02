@@ -1,0 +1,54 @@
+# Unity .gitignore (recommended for projects containing source and assets)
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio, Rider, VSCode
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity cache server
+Library/ScriptAssemblies/
+cache/
+
+# Build outputs (ignore large built players)
+*.apk
+*.aab
+*.exe
+*.app
+*.xcodeproj
+*.xcworkspace
+*.ipa
+*.unitypackage
+
+# Packed/temporary files
+*.zip
+*.rar
+
+# Note about art assets
+# If you plan to track large binary art assets (PSD, high-res PNG/TGA, etc.),
+# consider using Git LFS instead of committing them directly to the repo.
+# Example: `git lfs track "*.psd"` and add `.gitattributes` accordingly.
